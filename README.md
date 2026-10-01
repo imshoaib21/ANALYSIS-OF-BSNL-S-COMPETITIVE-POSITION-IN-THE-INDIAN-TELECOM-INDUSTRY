@@ -1,5 +1,7 @@
 # ANALYSIS-OF-BSNL-S-COMPETITIVE-POSITION-IN-THE-INDIAN-TELECOM-INDUSTRY
+
 An MBA Business Analytics research project examining BSNL’s position in India’s telecom market through subscriber trends, competitor benchmarking, financial analysis, technology adoption, and regional performance.
+
 Author: MD Shoaib Akhtar
 Programme: MBA – Business Analytics
 Year: 2026
